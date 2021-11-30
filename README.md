@@ -10,8 +10,8 @@
      <li> React Native </li>
   </ul>
 
-  <h3> What i do when i don't code?: </h3>
-  <p>🚴Its always a joy to ride my bike, 🎮 Love videogames, ✍️ Drawing manga and comic is a great way to relax my mind</p>
+  <h3> When not coding: </h3>
+  <p>🚴Its always a joy to ride my bike, 🎮 Love videogames, ✍️ Drawing manga and comic is a great way to chill </p>
 
    <h2> Get in touch! </h2>
    <ul>
