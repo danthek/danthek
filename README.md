@@ -24,6 +24,8 @@
 
 
 ![Danthek GitHub stats](https://github-readme-stats.vercel.app/api?username=danthek&show_icons=true&theme=monokai  )
+<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danthek&layout=compact)](https://github.com/danthek/github-readme-stats)
 
 
