@@ -23,7 +23,7 @@
 <br>
 
 
-![Danthek GitHub stats](https://github-readme-stats.vercel.app/api?username=danthek&show_icons=true&theme=vue  )
+![Danthek GitHub stats](https://github-readme-stats.vercel.app/api?username=danthek&show_icons=true&theme=monokai  )
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danthek&layout=compact)](https://github.com/danthek/github-readme-stats)
 
 
