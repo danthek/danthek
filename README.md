@@ -3,11 +3,13 @@
  🔥 I’m really into front end development and leveling up in React JS and React Native. <br><br>
   <p>My current developing skills are oriented in: </p>
   <ul>
-    <li> HTML </li>
-    <li> CSS  </li>
+    <li> Automated QA with: Puppeteer. Mocha, Chai & Jest</li>
+    <li> Performance Testing with: Jmeter. Blazemeter ,Selenium & Katalon  </li>
     <li> Javascript </li>
     <li> React JS </li>
-     <li> React Native </li>
+     <li>React Native </li>
+     <li>HTML </li>
+    <li> CSS  </li>
   </ul>
 
   <h3> When not coding: </h3>
