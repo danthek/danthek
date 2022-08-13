@@ -1,6 +1,6 @@
 <h1>Hi! 👋  I’m Abraham Delgado (aka Danthek)</h1>
 <div>
- 🔥 I’m really into front end development and leveling up in React JS and React Native. <br><br>
+ 🔥 I’m really into Automated QA Testing and leveling up in React JS and React Native. <br><br>
   <p>My current developing skills are oriented in: </p>
   <ul>
     <li> Automated QA with: Puppeteer. Mocha, Chai & Jest</li>
