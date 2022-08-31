@@ -4,7 +4,7 @@
   <p>My current developing skills are oriented in: </p>
   <ul>
     <li> Automated QA with: Puppeteer, Mocha, Chai, Jest, Cucumber & CodeceptJS </li>
-    <li> Performance Testing with: Jmeter. Blazemeter ,Selenium & Katalon  </li>
+    <li> Performance Testing with: Jmeter, Blazemeter ,Selenium & Katalon  </li>
     <li> Javascript </li>
     <li> React JS </li>
      <li>React Native </li>
