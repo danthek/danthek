@@ -17,7 +17,7 @@
 
    <h2> Get in touch! </h2>
    <ul>
-    <li> 💼 Linkedin: https://www.linkedin.com/in/jesus-abraham-delgado-orozco </li>
+    <li> 💼 Linkedin: www.linkedin.com/in/abraham-delgado-orozco </li>
     <li> 📸 Instagram: https://www.instagram.com/van_danthek </li>   
    </ul>
 </div>
