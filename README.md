@@ -1,4 +1,4 @@
-<h1>Hi! 👋  I’m Abraham Delgado (aka Danthek)</h1>
+<h1>Hi! 👋  I’m Abraham Delgado 
 <div>
  🔥 I’m really into Automated QA Testing and leveling up in React JS and React Native. <br><br>
   <p>My current developing skills are oriented in: </p>
