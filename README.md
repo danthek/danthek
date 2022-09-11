@@ -13,7 +13,7 @@
   </ul>
 
   <h3> When not coding: </h3>
-  <p>🏃 Its always a joy to go jogging, 🎮 Love videogames, ✍️ Drawing manga and comic is a great way to chill </p>
+  <p>🏃 Jogging, 🎮 Love videogames, ✍️ Drawing manga and comic is a great way to chill </p>
 
    <h2> Get in touch! </h2>
    <ul>
