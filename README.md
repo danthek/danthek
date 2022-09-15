@@ -8,6 +8,7 @@
     <li> Javascript </li>
     <li> React JS </li>
      <li>React Native </li>
+     <li>Java</li>
      <li>HTML </li>
     <li> CSS  </li>
   </ul>
