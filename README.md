@@ -24,7 +24,7 @@
 </div>
 
 <br>
-
+- **Work Profile**: [@workusername](https://github.disney.com/DELGJ185)
 
 ![Danthek GitHub stats](https://github-readme-stats.vercel.app/api?username=danthek&show_icons=true&theme=monokai  )
 <br>
